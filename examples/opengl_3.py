@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 # $Id:$
 
 '''In order to use the new features of OpenGL 3, you must explicitly create
